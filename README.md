@@ -7,9 +7,9 @@ This is a project that helps me better understand the cloning of repositories on
 * download and install VirtualBox:
 	then vagrant || wsl on a windows
 
-### VAGRANT, follow these steps:
+### VAGRANT: follow these steps:
 
-**NB!: During the installing process of vagrant, you might run into an error indecating that you might not have Microsoft Visual C++ 2019(or later) Redistributable package installed. Download it and then install it.
+NB!: During the installing process of vagrant, you might run into an error indecating that you might not have Microsoft Visual C++ 2019(or later) Redistributable package installed. Download it and then install it.
 
 * After installing vagrant:
 	As Admin, run windows powershell || command prompt
